@@ -25,3 +25,7 @@ Jamshaid Ahmed<br>Computer Science Student | AI/ML Enthusiast<br>Quaid-i-Azam Un
 [![](https://visitcount.itsvg.in/api?id=JamshaidAhmedd&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-snake-dark.svg" alt="snake"></center>
+</p>
+
